@@ -40,3 +40,58 @@ INFO:     100.64.4.167:53730 - "GET /docs HTTP/1.1" 200 OK
 INFO:     100.64.4.167:53738 - "GET /docs HTTP/1.1" 200 OK
 INFO:     100.64.4.167:53748 - "GET /openapi.json HTTP/1.1" 200 OK
 INFO:     100.64.4.167:53762 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     100.64.4.167:52992 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:53002 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:53016 - "GET /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:53024 - "GET /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:53030 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     100.64.4.167:53032 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     100.64.4.167:58502 - "OPTIONS /auth/register HTTP/1.1" 200 OK
+INFO:     100.64.4.167:58504 - "POST /auth/register HTTP/1.1" 200 OK
+INFO:     100.64.4.167:58510 - "OPTIONS /games HTTP/1.1" 200 OK
+INFO:     100.64.4.167:58512 - "GET /games HTTP/1.1" 404 Not Found
+INFO:     100.64.4.167:51966 - "OPTIONS /auth/me HTTP/1.1" 200 OK
+INFO:     100.64.4.167:51954 - "OPTIONS /auth/me HTTP/1.1" 200 OK
+INFO:     100.64.4.167:51970 - "GET /games HTTP/1.1" 404 Not Found
+INFO:     100.64.4.167:51984 - "GET /auth/me HTTP/1.1" 404 Not Found
+INFO:     100.64.4.167:51990 - "GET /auth/me HTTP/1.1" 404 Not Found
+INFO:     100.64.4.167:51996 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:51998 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:52004 - "GET /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:52018 - "GET /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:52032 - "GET /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:52038 - "GET /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:52052 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     100.64.4.167:52068 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     100.64.4.167:60560 - "GET /games HTTP/1.1" 404 Not Found
+INFO:     100.64.4.167:60554 - "GET /auth/me HTTP/1.1" 404 Not Found
+INFO:     100.64.4.167:60576 - "GET /auth/me HTTP/1.1" 404 Not Found
+INFO:     100.64.4.167:60590 - "GET /games HTTP/1.1" 404 Not Found
+INFO:     100.64.4.167:60596 - "GET /auth/me HTTP/1.1" 404 Not Found
+INFO:     100.64.4.167:60608 - "GET /auth/me HTTP/1.1" 404 Not Found
+INFO:     100.64.4.167:55782 - "GET /games HTTP/1.1" 404 Not Found
+INFO:     100.64.4.167:55772 - "GET /auth/me HTTP/1.1" 404 Not Found
+INFO:     100.64.4.167:55796 - "GET /auth/me HTTP/1.1" 404 Not Found
+INFO:     100.64.4.167:55812 - "GET /games HTTP/1.1" 404 Not Found
+INFO:     100.64.4.167:55826 - "GET /auth/me HTTP/1.1" 404 Not Found
+INFO:     100.64.4.167:55828 - "GET /auth/me HTTP/1.1" 404 Not Found
+INFO:     100.64.4.167:40462 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:40452 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:40466 - "GET /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:40476 - "GET /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:40490 - "GET /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:40506 - "GET /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:40518 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     100.64.4.167:40524 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     100.64.4.167:45462 - "GET /games HTTP/1.1" 404 Not Found
+INFO:     100.64.4.167:45464 - "GET /auth/me HTTP/1.1" 404 Not Found
+INFO:     100.64.4.167:45476 - "GET /auth/me HTTP/1.1" 404 Not Found
+INFO:     100.64.4.167:45468 - "GET /games HTTP/1.1" 404 Not Found
+INFO:     100.64.4.167:45484 - "GET /auth/me HTTP/1.1" 404 Not Found
+INFO:     100.64.4.167:45486 - "GET /auth/me HTTP/1.1" 404 Not Found
+INFO:     100.64.4.167:39090 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:39078 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:39094 - "GET /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:39100 - "GET /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:39110 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     100.64.4.167:39114 - "GET /openapi.json HTTP/1.1" 200 OK
